@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+#info{
+    width: 30%;
+    float: left;
+    padding: 20px;
+    flex: 1;
+    background-color: rgb(56, 56, 240);
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+
+#image{
+
+    padding: 0px;
+}
+
+#container2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
